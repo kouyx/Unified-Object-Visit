@@ -20,10 +20,40 @@ ZVSE2
 !$OB(OBJ_SHRINE_OF_MAGIC_THOUGHT)/0&i^timerIsHuman^;
 !!FU(unif_ShrineVisiting):P;
 
-!$OB(OBJ_MARLETTO_TOWER)&i^timerIsHuman^;
+!$OB(OBJ_BUOY)&i^timerIsHuman^;
 !!FU(unif_InitGlobalVisiting):P;
 
-!$OB(OBJ_MARLETTO_TOWER)&i^timerIsHuman^;
+!$OB(OBJ_FAERIE_RING)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_FOUNTAIN_OF_FORTUNE)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_FOUNTAIN_OF_YOUTH)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_IDOL_OF_FORTUNE)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_MAGIC_WELL)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_MERMAID)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_OASIS)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_RALLY_FLAG)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_STABLES)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_TEMPLE)&i^timerIsHuman^;
+!!FU(unif_InitGlobalVisiting):P;
+
+!$OB(OBJ_WATERING_HOLE)&i^timerIsHuman^;
 !!FU(unif_InitGlobalVisiting):P;
 
 !$OB(OBJ_MARLETTO_TOWER)&i^timerIsHuman^;

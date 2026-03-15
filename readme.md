@@ -1,8 +1,9 @@
 # Unified Object Visit
 
-This mod was commissioned by 𝑴𝒂𝒙𝒊𝒎𝒐𝑴𝒊𝒅𝒏𝒊𝒈𝒉𝒕 and developed by daemon_n.
+This mod was commissioned by 𝑴𝒂𝒙𝒊𝒎𝒐𝑴𝒊𝒅𝒏𝒊𝒈𝒉𝒕, developed by daemon_n, and expanded/localized by MoonHeart.
 
-After a human player's hero visits any of the following objects:
+After a human player's hero visits any of the following objects, the mod marks that object as "visited" for **all active human player's heroes** (so the benefit is shared across heroes):
+
 - 🗿 Learning Stone (100)
 - 🏰 Marletto Tower (23)
 - 🌿 Garden of Revelation (32)
@@ -16,6 +17,18 @@ After a human player's hero visits any of the following objects:
 - 🛕 Shrine of Magic Incantation (88)
 - 🛕 Shrine of Magic Gesture (89)
 - 🛕 Shrine of Magic Thought (90)
-all active human player's heroes are considered to have visited this object as well.
+- 🐚 Buoy (11)
+- 🧚 Faerie Ring (28)
+- 🌟 Fountain of Fortune (30)
+- 🌊 Fountain of Youth (31)
+- 🧿 Idol of Fortune (38)
+- 💧 Magic Well (49)
+- 🧜 Mermaid (52)
+- 🏝️ Oasis (56)
+- 🚩 Rally Flag (64)
+- 🐴 Stables (94)
+- 🛕 Temple (96)
+- 💧 Watering Hole (110)
+- 🏛️ Colosseum of the Magi / custom object (144/2)
 
-All changes affect only the human player.
+> **Note:** This mod only affects human players; AI heroes are not changed.

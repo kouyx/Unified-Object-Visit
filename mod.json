@@ -1,14 +1,17 @@
 {
 	"caption": {
+		"Cn_Simp": "统一物体访问",
 		"en_US": "Unified Object Visit",
 		"ru_RU": "Унифицированное посещение объектов"
 	},
 	"description": {
 		"full": {
+			"Cn_Simp": "readme_cn.md",
 			"en_US": "readme.md",
 			"ru_RU": "readme_ru.md"
 		},
 		"short": {
+			"Cn_Simp": "让人类玩家的活跃英雄共享访问某些地图物体的效果。",
 			"en_US": "Unified system for visiting map objects.",
 			"ru_RU": "Унифицированная система посещения объектов на карте."
 		}
@@ -19,7 +22,7 @@
 		"file": "icon.png",
 		"index": 0
 	},
-	"mod_version": "1.0.0",
+	"mod_version": "1.1",
 	"priority": 0,
 	"compatibility": {
 		"class": "default",
